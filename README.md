@@ -1,7 +1,3 @@
-Certainly! Here's a template for a GitHub description for PingPal:
-
----
-
 # PingPal: Connect, Collaborate, Communicate
 
 PingPal is a dynamic web application developed with Django and utilizes the built-in SQL database. It serves as a versatile platform for seamless collaboration and communication, allowing users to connect, discuss, and share ideas effortlessly.
